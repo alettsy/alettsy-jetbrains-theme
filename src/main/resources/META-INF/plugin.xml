@@ -1,0 +1,20 @@
+<idea-plugin>
+  <id>com.alettsy.alettsyJetbrainsTheme</id>
+  <name>alettsy Theme</name>
+  <vendor>Alex Betts</vendor>
+  <description><![CDATA[
+    <p>My personal Jetbrains theme, inspired by
+the amazing <a href="https://github.com/peppy/ppy-jetbrains-theme">ppy</a>
+and <a href="https://github.com/catppuccin/jetbrains">Catppuccin</a> themes
+with my own little colour twist.</p>
+  ]]></description>
+
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="ebcf5400-da13-4cd9-a666-f04c26a29f86" path="/alettsy Dark.theme.json"/>
+  </extensions>
+
+  <version>1.0.0</version>
+</idea-plugin>
