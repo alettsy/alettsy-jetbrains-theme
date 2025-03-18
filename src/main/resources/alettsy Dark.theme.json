@@ -30,10 +30,16 @@
       "foreground": "foreground",
       "infoForeground": "info-fg",
       "infoBackground": "info-bg",
-      "selectionBackground": "accent-darker",
+      "selectionBackground": "accent",
       "selectionForeground": "foreground",
-      "selectionInactiveBackground": "disabled-bg",
-      "selectionBackgroundInactive": "disabled-bg"
+      "selectionInactiveBackground": "accent-darker",
+      "selectionBackgroundInactive": "accent-darker",
+      "selectedBackground": "accent",
+      "selectedForeground": "foreground",
+      "selectedInactiveBackground": "accent-darker",
+      "selectedInactiveForeground": "foreground",
+      "hoverBackground": "background-lighter",
+      "hoverForeground": "foreground"
     },
     "ActionButton": {
       "hoverBackground": "background-lighter",
@@ -156,6 +162,9 @@
     "MemoryIndicator": {
       "allocatedBackground": "disabled-bg",
       "usedBackground": "accent"
+    },
+    "Menu": {
+      "selectionBackground": "accent"
     },
     "ParameterInfo": {
       "background": "disabled-bg",
