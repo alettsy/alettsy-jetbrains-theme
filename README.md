@@ -1,7 +1,9 @@
 # alettsy Jetbrains Theme
 
 <!-- Plugin description -->
-My personal Jetbrains theme, inspired by 
+My personal Jetbrains theme for clean, clear coding.
+
+Inspired by 
 the amazing [ppy](https://github.com/peppy/ppy-jetbrains-theme) 
 and [Catppuccin](https://github.com/catppuccin/jetbrains) themes 
 with my own little colour twist.
