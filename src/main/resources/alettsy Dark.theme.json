@@ -187,7 +187,7 @@
       }
     },
     "ProgressBar": {
-      "trackColor": "background",
+      "trackColor": "background-lighter",
       "progressColor": "accent-lighter",
       "indeterminateStartColor": "accent-lighter",
       "indeterminateEndColor": "accent-darker",
