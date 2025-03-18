@@ -30,10 +30,7 @@ jobs:
         with:
           distribution: zulu
           java-version: 17
-
-      # Setup Gradle
-      - name: Setup Gradle
-        uses: gradle/actions/setup-gradle@v4
+          cache: gradle
 
       # Set environment variables
       - name: Export Properties
