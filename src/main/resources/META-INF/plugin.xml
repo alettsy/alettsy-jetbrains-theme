@@ -17,5 +17,5 @@ with my own little colour twist.</p>
     <themeProvider id="ebcf5400-da13-4cd9-a666-f04c26a29f86" path="/alettsy Dark.theme.json"/>
   </extensions>
 
-  <version>1.0.1</version>
+  <version>1.0.2</version>
 </idea-plugin>
