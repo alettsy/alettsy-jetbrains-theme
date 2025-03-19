@@ -33,8 +33,20 @@
     <option name="ScrollBar.Mac.thumbColor" value="25252620" />
     <option name="TEARLINE_COLOR" value="2c2c3b" />
     <option name="VISUAL_INDENT_GUIDE" value="" />
+    <option name="DOCUMENTATION_COLOR" value="1D1D26"/>
+    <option name="CONSOLE_BACKGROUND_KEY" value="20202A"/>
   </colors>
   <attributes>
+    <option name="TERMINAL_BACKGROUND" value="20202A"/>
+    <option name="DEFAULT_GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="9876AA"/>
+        <option name="FONT_TYPE" value="1"/>
+      </value>
+    </option>
+    <option name="ERL_VARIABLES" baseAttributes="DEFAULT_GLOBAL_VARIABLE"/>
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE"/>
+    <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE"/>
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="bbbbbb" />
